@@ -22,5 +22,5 @@ The following image shows the apps's appearance and functionality.
 
 
 ## Application link
-Link to the password generation website: 
+Link to the password generation website: https://subwayaintfresh.github.io/Day-Planner/
 
